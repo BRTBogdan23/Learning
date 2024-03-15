@@ -1,0 +1,19 @@
+
+		body{
+
+			background-color: lightblue;
+		}
+
+		h2{font-size: 35px;
+			color: pink;
+		}
+		.mare{font-size: 120px;}
+		.literemari{text-transform: uppercase;}
+		.mare.literemari{color: purple;}
+		rosu{color: red;}
+
+		.maimutel{font-size: 200px;
+			color: PaleTurquoise; }
+
+
+
